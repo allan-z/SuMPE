@@ -1,6 +1,6 @@
 # Mixture Proportion Estimation Beyond Irreducibility
 
-2023. 5. 25: released the code; further clean-up needed 
+2023-5-25: released the code; further clean-up needed 
 
 This folder includes 4 baseline MPE algorithms: DPL, EN, KM, TIcE, extracted from https://github.com/dimonenka/DEDPUL and https://web.eecs.umich.edu/~cscott/code.html#kmpe. 
 The Regrouping algorithm was extracted from https://openreview.net/forum?id=aYAA-XHKyk.
