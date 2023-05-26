@@ -2,7 +2,7 @@
 
 Yilun Zhu, Aaron Fjeldsted, Darren Holland, George Landon, Azaree Lintereur, and Clayton Scott, ``Mixture Proportion Estimation Beyond Irreducibility,'' accepted to International Conference on Machine Learning, 2023.
 
-2023-5-25: released the code; further clean-up needed 
+**2023-5-25**: released the code; further clean-up needed 
 
 This folder includes 4 baseline MPE algorithms: DPL, EN, KM, TIcE, extracted from https://github.com/dimonenka/DEDPUL and https://web.eecs.umich.edu/~cscott/code.html#kmpe. 
 The Regrouping algorithm was extracted from https://openreview.net/forum?id=aYAA-XHKyk.
