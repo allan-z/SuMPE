@@ -4,7 +4,7 @@ Yilun Zhu, Aaron Fjeldsted, Darren Holland, George Landon, Azaree Lintereur, and
 
 **To do**
 - [x] release the code that could reproduce experimental result
-- [] clear-up the implementation
+- [ ] clear-up the implementation
 
 **2023-6-1**: released the code (users needs to specify the parameters to match the test setup); further clean-up needed 
 
