@@ -2,6 +2,8 @@
 
 Yilun Zhu, Aaron Fjeldsted, Darren Holland, George Landon, Azaree Lintereur, and Clayton Scott, ``Mixture Proportion Estimation Beyond Irreducibility,'' accepted to International Conference on Machine Learning, 2023.
 
+[Paper](https://arxiv.org/abs/2306.01253)
+
 **To do**
 - [x] release the code that could reproduce experimental result
 - [ ] clear-up the implementation
